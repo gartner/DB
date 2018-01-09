@@ -27,6 +27,9 @@
         }
     },
     "description": "More info available on: http://pear.php.net/package/DB",
+    "replace": {
+        "pear-pear.php.net/DB" : "1.*"
+    },
     "include-path": [
         "./"
     ],
